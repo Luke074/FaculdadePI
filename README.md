@@ -114,9 +114,13 @@ O protótipo funcional foi desenvolvido com base no diagrama de caso de uso. Ele
 
 ## Integrantes
 
-- <span style="color:yellow;">**Adson Gabriel Ferreira**</span>
-- <span style="color:yellow;">**Helena Oliveira dos Santos**</span>
-- <span style="color:yellow;">**José Guilherme Cardoso de Abreu**</span>
-- <span style="color:yellow;">**Lucas Alves Mendes**</span>
-- <span style="color:yellow;">**Marcos Gabriel de Oliveira Guede**</span>
+- **Adson Gabriel Ferreira**
+- **Helena Oliveira dos Santos**
+- **José Guilherme Cardoso de Abreu**
+- **Lucas Alves Mendes**
+- **Marcos Gabriel de Oliveira Guede**
+
+
+![Psyduck flexing](https://media.tenor.com/2fk2J-zpIA4AAAAM/psyduck-flex.gif)
+
 
