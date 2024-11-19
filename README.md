@@ -110,3 +110,13 @@ O protótipo funcional foi desenvolvido com base no diagrama de caso de uso. Ele
 - **Lucidchart**: [Diagrama de caso de uso UML](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml)
 - **Creately**: [Tutorial de diagramas de classe UML](https://creately.com/blog/pt/diagrama/tutorial-diagrama-de-classes/)
 - **Miro**: [O jeito mais fácil de criar diagramas de classe UML](https://miro.com/pt/diagrama/diagrama-classes-uml/)
+
+
+## Integrantes
+
+- <span style="color:yellow;">**Adson Gabriel Ferreira**</span>
+- <span style="color:yellow;">**Helena Oliveira dos Santos**</span>
+- <span style="color:yellow;">**José Guilherme Cardoso de Abreu**</span>
+- <span style="color:yellow;">**Lucas Alves Mendes**</span>
+- <span style="color:yellow;">**Marcos Gabriel de Oliveira Guede**</span>
+
