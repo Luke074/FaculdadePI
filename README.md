@@ -30,7 +30,7 @@ O sistema busca otimizar e centralizar a gestão de dados de uma universidade. S
 
 O diagrama de caso de uso apresenta os principais atores e funcionalidades do sistema, como o cadastro de alunos, professores e fornecedores.  
 
-![Diagrama de caso de uso](https://imgur.com/a/VywGwhZ)
+![Diagrama de caso de uso](https://i.imgur.com/U8b12sv.png)
 
 ---
 
