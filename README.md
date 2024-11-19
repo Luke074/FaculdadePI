@@ -121,6 +121,4 @@ O protótipo funcional foi desenvolvido com base no diagrama de caso de uso. Ele
 - **Marcos Gabriel de Oliveira Guede**
 
 
-![Psyduck flexing](https://media.tenor.com/2fk2J-zpIA4AAAAM/psyduck-flex.gif)
-
 
