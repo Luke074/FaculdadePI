@@ -84,7 +84,7 @@ O diagrama de caso de uso apresenta os principais atores e funcionalidades do si
 
 O diagrama de classe detalha as relações e atributos entre entidades do sistema, como Aluno, Professor, e Fornecedor.  
 
-![Diagrama de classe](./Images/Diagrama-de-classe.jpg "Diagrama de classe de sistema de cadastro de uma faculdade")
+![Diagrama de classe]([./Images/Diagrama-de-classe.jpg "Diagrama de classe de sistema de cadastro de uma faculdade"](https://i.imgur.com/U8b12sv.png))
 
 ---
 
