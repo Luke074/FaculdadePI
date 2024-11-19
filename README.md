@@ -30,7 +30,7 @@ O sistema busca otimizar e centralizar a gestão de dados de uma universidade. S
 
 O diagrama de caso de uso apresenta os principais atores e funcionalidades do sistema, como o cadastro de alunos, professores e fornecedores.  
 
-![Diagrama de caso de uso](./Images/Diagrama-de-caso-de-uso.jpg "Diagrama de caso de uso de sistema de cadastro de uma faculdade")
+![Diagrama de caso de uso](https://imgur.com/a/VywGwhZ)
 
 ---
 
@@ -104,20 +104,7 @@ O protótipo funcional foi desenvolvido com base no diagrama de caso de uso. Ele
 ### **Acesse o protótipo no Figma**  
 [🔗 Clique aqui para acessar o protótipo](https://www.figma.com/design/pkkBQVRADTYcfmO2tnlJQj/Projeto-Integrador-II?node-id=0-1&t=pEZ4a5mmYh5KkvhL-1)
 
-#### **Exemplo de Jornada: Cadastro de Aluno**
-1. **Tela Inicial**: Escolha do tipo de entidade (Aluno, Professor, Fornecedor).  
-   ![Tela inicial](./Images/Tela-1.png "Tela inicial do protótipo")
 
-2. **Formulário de Cadastro**: Dados pessoais, endereço e acesso.  
-   ![Tela de cadastro](./Images/Tela-1-aluno.png "Formulário de cadastro de aluno")
-
-3. **Seleção de Curso e Pagamento**: Escolha de curso, polo e forma de pagamento.  
-   ![Tela de pagamento](./Images/Tela-3-aluno.png "Tela de pagamento do protótipo")
-
-4. **Confirmação**: Conclusão do cadastro e matrícula no curso.  
-   ![Tela de confirmação](./Images/Tela-4-aluno.png "Tela de confirmação do protótipo")
-
----
 
 ## 📚 **Referências**
 - **Lucidchart**: [Diagrama de caso de uso UML](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml)
