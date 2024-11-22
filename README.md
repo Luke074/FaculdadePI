@@ -29,11 +29,11 @@ Na tela inicial de cadastro tem-se 3 opções disponíveis para o **tipo de enti
 > A **primeira** tela mostra um formulário de cadastro dividido em 3 seções: "Dados pessoais básicos", "Endereço" e "Dados de acesso", que possui campos obrigatórios e opcionais.
 > ![Primeira tela do cadastro da entidade aluno](./Images/Aluno/Tela-1-aluno.png "Primeira tela do cadastro da entidade Aluno")
 > A **segunda** tela oferece uma interface simples e intuitiva para o usuário escolher o curso, polo e horário de preferência. Também apresenta as formas de pagamento e os valores disponíveis para curso, mensalidades, etc. O layout e as funcionalidades facilitam a navegação.
-> ![Segunda tela do cadastro da entidade aluno](./Images/Tela-2-aluno.png "Segunda tela do cadastro da entidade Aluno")
+> ![Segunda tela do cadastro da entidade aluno](./Images/Aluno/TTela-2-aluno.png "Segunda tela do cadastro da entidade Aluno")
 > A **terceira** tela mostra a etapa de pagamento do curso escolhido. Os meios podem ser cartão de crédito ou débito, pix e boleto (adicionar forma boleto).
-> ![Terceira tela do cadastro da entidade aluno](./Images/Tela-3-aluno.png "Terceira tela do cadastro da entidade Aluno")
+> ![Terceira tela do cadastro da entidade aluno](./Images/Aluno/TTela-3-aluno.png "Terceira tela do cadastro da entidade Aluno")
 > A **quarta** tela exibe a confirmação de cadastro e a inscrição em determinado curso
-> ![Terceira tela do cadastro da entidade aluno](./Images/Tela-4-aluno.png "Terceira tela do cadastro da entidade Aluno")
+> ![Terceira tela do cadastro da entidade aluno](./Images/Aluno/TTela-4-aluno.png "Terceira tela do cadastro da entidade Aluno")
 
 
 
