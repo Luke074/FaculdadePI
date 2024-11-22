@@ -7,7 +7,7 @@ Os protótipos da interface do sistema são baseados no diagrama de **caso de us
 
 
 > **Diagrama de classe**
-![Diagrama de classe de sistema de cadastro de uma faculdade](./Images/Diagrama-de-classe.png "Diagrama de classe de sistema de cadastro de uma faculdade")
+![Diagrama de classe de sistema de cadastro de uma faculdade](./Images/Diagramas/Diagrama-de-classe.png "Diagrama de classe de sistema de cadastro de uma faculdade")
 
 
 Para desenvolver o protótipo funcional foi usado a ferramenta de design **[Figma](https://www.figma.com)**.
