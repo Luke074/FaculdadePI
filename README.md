@@ -42,7 +42,7 @@ Na tela inicial de cadastro tem-se 3 opções disponíveis para o **tipo de enti
 
 > ### Cadastro da entidade "Professor"
 > A **primeira** tela mostra um formulário de cadastro dividido em 4 seções: "Dados pessoais básicos", "Endereço", "Ensino" e "Dados de acesso", que possui campos obrigatórios e opcionais.
-> ![Tela única do cadastro da entidade Professor](./Images/Tela-1-professor.png "Tela do cadastro da entidade Professor")
+> ![Tela única do cadastro da entidade Professor](./Images/Professor/Tela-1-professor.png "Tela do cadastro da entidade Professor")
 
 > ### Cadastro da entidade "Fornecedor"
 > A **primeira** tela mostra um formulário de cadastro dividido em 3 seções: "Dados do fornecedor", "Endereço" e "Dados de acesso", que possui campos obrigatórios e opcionais.
