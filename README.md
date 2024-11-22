@@ -22,7 +22,7 @@ O nome escolhido para o protótipo foi "**Faculdade PI**" (nome fictício). **[c
 - Cadastro de Alunos
 
 Na tela inicial de cadastro tem-se 3 opções disponíveis para o **tipo de entidade**, sendo elas "Aluno", "Professor" e "Fornecedor". Deve-se escolher conforme o papel que vai desempenhar.
-![Tela de escolha do tipo de entidade para cadastro](./Images/Tela-1.png "Tela de escolha do tipo de entidade para cadastro")
+![Tela de escolha do tipo de entidade para cadastro](./Images/Aluno/Tela-1.png "Tela de escolha do tipo de entidade para cadastro")
 
 
 > ### Cadastro da entidade "Aluno"
@@ -42,19 +42,23 @@ Na tela inicial de cadastro tem-se 3 opções disponíveis para o **tipo de enti
 
 > ### Cadastro da entidade "Professor"
 > A **primeira** tela mostra um formulário de cadastro dividido em 4 seções: "Dados pessoais básicos", "Endereço", "Ensino" e "Dados de acesso", que possui campos obrigatórios e opcionais.
+>
 > ![Tela única do cadastro da entidade Professor](./Images/Professor/Tela-1-professor.png "Tela do cadastro da entidade Professor")
 
 > ### Cadastro da entidade "Fornecedor"
 > A **primeira** tela mostra um formulário de cadastro dividido em 3 seções: "Dados do fornecedor", "Endereço" e "Dados de acesso", que possui campos obrigatórios e opcionais.
+>
 > ![Tela única do cadastro da entidade Fornecedor](./Images/Fornecedor/Tela-1-Fornecedor.png "Tela do cadastro da entidade Fornecedor")
 
 
 > ### Jornada de pessoa física
 > A **primeira** tela mostra um formulário de cadastro dividido em 3 seções: "Dados pessoais básicos", "Endereço" e "Cargo", que possui campos obrigatórios e opcionais, além de possuir a opção de fazer uploads com o curriculum vitae, carteira de trabalho e um "sobre mim".
+>
 > ![Tela única do cadastro da entidade Pessoa Física](./Images/Professor/Tela-1-PF.png "Tela do cadastro da entidade Pessoa física")
 
 > ### Jornada de pessoa jurídica
 > A **primeira** tela mostra um formulário de cadastro dividido em 2 seções: "Dados da empresa" e "Endereço". Ela possui campos obrigatórios e opcionais, além da opção de fazer upload de um arquivo PDF com informações sobre a empresa.
+>
 > ![Tela única do cadastro da entidade Pessoa jurídica](./Images/Fornecedor/Tela-1-PJ.png "Tela do cadastro da entidade Pessoa jurídica")
 
 > ### Conclusão
