@@ -3,7 +3,7 @@
 Os protótipos da interface do sistema são baseados no diagrama de **caso de uso** do **sistema de cadastro de uma faculdade**, que foi desenvolvido na primeira fase do Projeto Integrador. Abaixo apresentamos o diagrama criado:
 
 > ### Diagrama de caso de uso
-> ![Diagrama de caso de uso de sistema de cadastro de uma faculdade](./Images/Diagrama-de-caso-de-uso.jpg "Diagrama de caso de uso de sistema de cadastro de uma faculdade")
+> ![Diagrama de caso de uso de sistema de cadastro de uma faculdade](./Images/Diagramas/Diagrama-de-caso-de-uso.jpg "Diagrama de caso de uso de sistema de cadastro de uma faculdade")
 
 
 > **Diagrama de classe**
