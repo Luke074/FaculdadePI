@@ -14,6 +14,7 @@ Para desenvolver o protótipo funcional foi usado a ferramenta de design **[Figm
 
 O nome escolhido para o protótipo foi "**Faculdade PI**" (nome fictício). **[clique aqui para ver o protótipo](https://www.figma.com/design/pkkBQVRADTYcfmO2tnlJQj/Projeto-Integrador-II?node-id=0-1&t=pEZ4a5mmYh5KkvhL-1)**
 
+
 ### Jornadas do protótipo:
 - Cadastro de Pessoa Física ​
 - Cadastro de Pessoa Jurídica ​
@@ -36,14 +37,11 @@ Na tela inicial de cadastro tem-se 3 opções disponíveis para o **tipo de enti
 > ![Terceira tela do cadastro da entidade aluno](./Images/Aluno/Tela-4-aluno.png "Terceira tela do cadastro da entidade Aluno")
 
 
-
-
-
-
 > ### Cadastro da entidade "Professor"
 > A **primeira** tela mostra um formulário de cadastro dividido em 4 seções: "Dados pessoais básicos", "Endereço", "Ensino" e "Dados de acesso", que possui campos obrigatórios e opcionais.
 >
 > ![Tela única do cadastro da entidade Professor](./Images/Professor/Tela-1-professor.png "Tela do cadastro da entidade Professor")
+
 
 > ### Cadastro da entidade "Fornecedor"
 > A **primeira** tela mostra um formulário de cadastro dividido em 3 seções: "Dados do fornecedor", "Endereço" e "Dados de acesso", que possui campos obrigatórios e opcionais.
@@ -56,12 +54,22 @@ Na tela inicial de cadastro tem-se 3 opções disponíveis para o **tipo de enti
 >
 > ![Tela única do cadastro da entidade Pessoa Física](./Images/Professor/Tela-1-PF.png "Tela do cadastro da entidade Pessoa física")
 
+
 > ### Jornada de pessoa jurídica
 > A **primeira** tela mostra um formulário de cadastro dividido em 2 seções: "Dados da empresa" e "Endereço". Ela possui campos obrigatórios e opcionais, além da opção de fazer upload de um arquivo PDF com informações sobre a empresa.
 >
 > ![Tela única do cadastro da entidade Pessoa jurídica](./Images/Fornecedor/Tela-1-PJ.png "Tela do cadastro da entidade Pessoa jurídica")
 
+
 > ### Conclusão
 > Em resumo, para o projeto "Faculdade PI", fizemos um protótipo funcional de um sistema de cadastro acadêmico,com base nos diagramas de caso de uso e de classe que desenvolvemos anteriormente. Utilizamos o Figma para criar as interfaces, que abrangem as jornadas de cadastro de Alunos, Professores, Fornecedores, Pessoas Físicas e Jurídicas.
-
+> 
 > Organizamos cada jornada em formulários com campos obrigatórios e opcionais, além de incluir funcionalidades como uploads de documentos e seleção de opções específicas. Para os alunos, elaboramos etapas adicionais, como escolha de curso, polo e horário, pagamento e confirmação. Criamos um protótipo simples e funcional, atendendo às necessidades de diferentes perfis no ambiente acadêmico.
+
+> ### Integrantes
+> - ADSON GABRIEL FERREIRA
+> - HELENA OLIVEIRA DOS SANTOS
+> - JOSÉ GUILHERME CARDOSO DE ABREU
+> - LUCAS ALVES MENDES
+> - MARCOS GABRIEL DE OLIVEIRA GUEDES
+
