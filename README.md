@@ -46,16 +46,16 @@ Na tela inicial de cadastro tem-se 3 opções disponíveis para o **tipo de enti
 
 > ### Cadastro da entidade "Fornecedor"
 > A **primeira** tela mostra um formulário de cadastro dividido em 3 seções: "Dados do fornecedor", "Endereço" e "Dados de acesso", que possui campos obrigatórios e opcionais.
-> ![Tela única do cadastro da entidade Fornecedor](./Images/Tela-1-Fornecedor.png "Tela do cadastro da entidade Fornecedor")
+> ![Tela única do cadastro da entidade Fornecedor](./Images/Fornecedor/Tela-1-Fornecedor.png "Tela do cadastro da entidade Fornecedor")
 
 
 > ### Jornada de pessoa física
 > A **primeira** tela mostra um formulário de cadastro dividido em 3 seções: "Dados pessoais básicos", "Endereço" e "Cargo", que possui campos obrigatórios e opcionais, além de possuir a opção de fazer uploads com o curriculum vitae, carteira de trabalho e um "sobre mim".
-> ![Tela única do cadastro da entidade Pessoa Física](./Images/Tela-1-PF.png "Tela do cadastro da entidade Pessoa física")
+> ![Tela única do cadastro da entidade Pessoa Física](./Images/Professor/Tela-1-PF.png "Tela do cadastro da entidade Pessoa física")
 
 > ### Jornada de pessoa jurídica
 > A **primeira** tela mostra um formulário de cadastro dividido em 2 seções: "Dados da empresa" e "Endereço". Ela possui campos obrigatórios e opcionais, além da opção de fazer upload de um arquivo PDF com informações sobre a empresa.
-> ![Tela única do cadastro da entidade Pessoa jurídica](./Images/Tela-1-PJ.png "Tela do cadastro da entidade Pessoa jurídica")
+> ![Tela única do cadastro da entidade Pessoa jurídica](./Images/Fornecedor/Tela-1-PJ.png "Tela do cadastro da entidade Pessoa jurídica")
 
 > ### Conclusão
 > Em resumo, para o projeto "Faculdade PI", fizemos um protótipo funcional de um sistema de cadastro acadêmico,com base nos diagramas de caso de uso e de classe que desenvolvemos anteriormente. Utilizamos o Figma para criar as interfaces, que abrangem as jornadas de cadastro de Alunos, Professores, Fornecedores, Pessoas Físicas e Jurídicas.
