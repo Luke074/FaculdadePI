@@ -1,4 +1,4 @@
-# Segunda entrega do Projeto Integrador - Senac Ead 2024
+# Segunda entrega do Projeto Integrador - Senac Ead
 
 Os protótipos da interface do sistema são baseados no diagrama de **caso de uso** do **sistema de cadastro de uma faculdade**, que foi desenvolvido na primeira fase do Projeto Integrador. Abaixo apresentamos o diagrama criado:
 
